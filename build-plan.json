@@ -1,0 +1,656 @@
+{
+  "seo": {
+    "target_radius": 15,
+    "primary_keyword": "tree service watertown ma",
+    "secondary_keywords": [
+      "tree removal watertown ma",
+      "tree trimming watertown ma",
+      "tree service near me",
+      "stump removal watertown ma",
+      "arborist watertown ma",
+      "tree cutting watertown ma",
+      "tree pruning watertown massachusetts",
+      "commercial tree service watertown",
+      "residential tree service watertown",
+      "stump grinding watertown ma",
+      "tree care services watertown",
+      "emergency tree removal watertown ma"
+    ]
+  },
+  "tier": "standard",
+  "email": "",
+  "phone": "",
+  "assets": {
+    "logo": {
+      "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/logo/1776899007390-oq02qd-LOGO.jpg",
+      "storage_path": "bbd-tree-service/logo/1776899007390-oq02qd-LOGO.jpg"
+    },
+    "images": [
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/logo/1776899007390-oq02qd-LOGO.jpg",
+        "page": "any",
+        "caption": "",
+        "context": "logo",
+        "storage_path": "bbd-tree-service/logo/1776899007390-oq02qd-LOGO.jpg",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899124438-s742uz-Photo_of_branches__1_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899124438-s742uz-Photo_of_branches__1_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899126803-nkmfdb-Photo_of_branches.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899126803-nkmfdb-Photo_of_branches.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899127863-agb2jd-Photo__2_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899127863-agb2jd-Photo__2_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899128712-yscgem-Photo__1_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899128712-yscgem-Photo__1_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899129569-bqezwx-Photo.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899129569-bqezwx-Photo.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899130413-in3bcx-image.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899130413-in3bcx-image.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899131273-nikv5u-Photo_of_branches__13_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899131273-nikv5u-Photo_of_branches__13_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899132063-btyvop-Photo_of_trimmed__1_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899132063-btyvop-Photo_of_trimmed__1_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899132933-0df1xu-Photo__28_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899132933-0df1xu-Photo__28_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899133729-m2dxzn-Photo_of_branches__12_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899133729-m2dxzn-Photo_of_branches__12_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899134603-a2ctzj-Photo__27_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899134603-a2ctzj-Photo__27_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899135393-kji2yi-Photo__26_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899135393-kji2yi-Photo__26_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899136268-nkwejd-Photo__25_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899136268-nkwejd-Photo__25_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899137144-e3bssb-Photo_of_branches__11_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899137144-e3bssb-Photo_of_branches__11_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899137934-b5ue1p-Photo__24_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899137934-b5ue1p-Photo__24_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899138831-f0p825-Photo_of_branches__10_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899138831-f0p825-Photo_of_branches__10_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899139684-tzly1p-Photo__23_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899139684-tzly1p-Photo__23_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899140534-z7kx4c-Photo_of_branches__9_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899140534-z7kx4c-Photo_of_branches__9_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899141604-pth7xl-Photo_of_branches__8_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899141604-pth7xl-Photo_of_branches__8_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899142424-ak4yy3-Photo__22_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899142424-ak4yy3-Photo__22_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899143243-f8rq9r-Photo__21_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899143243-f8rq9r-Photo__21_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899144077-cnxca6-Photo__20_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899144077-cnxca6-Photo__20_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899144944-ybw4bg-Photo__19_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899144944-ybw4bg-Photo__19_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899145750-r7m53u-Photo__18_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899145750-r7m53u-Photo__18_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899146544-iznggu-Photo__17_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899146544-iznggu-Photo__17_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899147452-noi3qq-Photo__16_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899147452-noi3qq-Photo__16_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899148434-t8yn9r-Photo__15_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899148434-t8yn9r-Photo__15_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899149344-98evrz-Photo__14_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899149344-98evrz-Photo__14_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899150242-fc6hxw-Photo__13_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899150242-fc6hxw-Photo__13_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899151044-1cojtj-Photo__12_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899151044-1cojtj-Photo__12_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899151900-d4bkuw-Photo__11_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899151900-d4bkuw-Photo__11_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899152754-h3pt6v-Photo_of_tree_removal.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899152754-h3pt6v-Photo_of_tree_removal.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899154563-m1tr99-Photo__10_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899154563-m1tr99-Photo__10_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899155422-imqa74-Photo__9_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899155422-imqa74-Photo__9_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899156354-mp5oej-Photo_of_branches__7_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899156354-mp5oej-Photo_of_branches__7_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899157244-ocdv69-Photo__8_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899157244-ocdv69-Photo__8_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899158174-3vjkt9-Photo_of_branches__6_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899158174-3vjkt9-Photo_of_branches__6_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899159034-zldcbs-Photo__7_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899159034-zldcbs-Photo__7_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899159884-y71hu3-Photo_of_branches__5_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899159884-y71hu3-Photo_of_branches__5_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899160754-f3mukc-Photo__6_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899160754-f3mukc-Photo__6_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899161729-ozelmu-Photo_of_trimmed.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899161729-ozelmu-Photo_of_trimmed.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899162735-7w3x2u-Photo_of_branches__4_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899162735-7w3x2u-Photo_of_branches__4_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899163625-imkizr-Photo_of_branches__3_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899163625-imkizr-Photo_of_branches__3_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899164535-7vu0p4-Photo__5_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899164535-7vu0p4-Photo__5_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899165395-ib39yo-Photo_of_personable_staff.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899165395-ib39yo-Photo_of_personable_staff.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899166275-uizhax-Photo__4_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899166275-uizhax-Photo__4_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899167145-t8mmjq-Photo__3_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899167145-t8mmjq-Photo__3_.png",
+        "quality_score": null
+      },
+      {
+        "alt": "",
+        "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899167995-vo7mlh-Photo_of_branches__2_.png",
+        "page": "any",
+        "caption": "",
+        "context": "other",
+        "storage_path": "bbd-tree-service/photos/1776899167995-vo7mlh-Photo_of_branches__2_.png",
+        "quality_score": null
+      }
+    ],
+    "recommended_hero_image": {
+      "alt": "",
+      "url": "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/logo/1776899007390-oq02qd-LOGO.jpg",
+      "context": "logo",
+      "quality_score": null
+    }
+  },
+  "design": {
+    "fonts": {},
+    "notes": "",
+    "style": "modern",
+    "colors": {
+      "accent": "#06b6d4",
+      "primary": "#1a2b3c",
+      "secondary": "#4d5e6f",
+      "extracted_from_logo": true
+    },
+    "logo_analysis": {}
+  },
+  "domain": "bbd-tree-service",
+  "phases": [
+    {
+      "name": "scaffold",
+      "phase": 1,
+      "status": "pending"
+    },
+    {
+      "name": "nav_footer_head",
+      "phase": 2,
+      "status": "pending"
+    },
+    {
+      "name": "homepage",
+      "phase": 3,
+      "status": "pending"
+    },
+    {
+      "name": "inner_pages",
+      "phase": 4,
+      "status": "pending"
+    },
+    {
+      "name": "seo_aeo_deploy",
+      "phase": 5,
+      "status": "pending"
+    }
+  ],
+  "address": {
+    "zip": "02472",
+    "city": "Watertown",
+    "state": "MA",
+    "street": "44 Bacon St"
+  },
+  "content": {
+    "usps": [],
+    "years": 26,
+    "insurance": "",
+    "description": "",
+    "certifications": []
+  },
+  "reviews": [],
+  "tagline": "Your Trees, Our Expertise - BBD Tree Service",
+  "industry": "tree_service",
+  "services": [
+    {
+      "name": "Tree Removal",
+      "keywords": [
+        "tree removal Watertown MA",
+        "tree removal service Watertown",
+        "emergency tree removal Watertown",
+        "professional tree removal Massachusetts"
+      ],
+      "description": "Professional tree removal services in Watertown, MA for dangerous, diseased, or unwanted trees. Our certified arborists safely remove trees of any size with proper equipment and cleanup."
+    },
+    {
+      "name": "Tree Trimming",
+      "keywords": [
+        "tree trimming Watertown MA",
+        "tree pruning Watertown",
+        "tree trimming service Massachusetts",
+        "professional tree trimming Watertown"
+      ],
+      "description": "Expert tree trimming and pruning services to maintain healthy, beautiful trees in Watertown, Massachusetts. We enhance tree structure, safety, and aesthetic appeal."
+    },
+    {
+      "name": "Tree Pruning Service",
+      "keywords": [
+        "tree pruning Watertown MA",
+        "pruning service Watertown",
+        "tree pruning Massachusetts",
+        "professional tree pruning Watertown"
+      ],
+      "description": "Specialized tree pruning services in Watertown, MA to promote tree health, growth, and safety. Our arborists use proper techniques to maintain your trees' structural integrity."
+    },
+    {
+      "name": "Stump Grinding",
+      "keywords": [
+        "stump grinding Watertown MA",
+        "stump grinding service Watertown",
+        "stump grinding Massachusetts",
+        "tree stump removal Watertown"
+      ],
+      "description": "Complete stump grinding services in Watertown, Massachusetts to remove unsightly tree stumps from your property. We grind stumps below ground level and clean up all debris."
+    },
+    {
+      "name": "Stump Removal",
+      "keywords": [
+        "stump removal Watertown MA",
+        "stump removal service Watertown",
+        "complete stump removal Massachusetts",
+        "tree stump removal Watertown"
+      ],
+      "description": "Professional stump removal services in Watertown, MA to completely eliminate tree stumps and roots. We restore your landscape to a clean, usable condition."
+    },
+    {
+      "name": "Commercial Tree Service",
+      "keywords": [
+        "commercial tree service Watertown MA",
+        "business tree service Watertown",
+        "commercial tree care Massachusetts",
+        "municipal tree service Watertown"
+      ],
+      "description": "Comprehensive commercial tree services in Watertown, Massachusetts for businesses, municipalities, and property managers. We provide reliable, professional tree care solutions."
+    },
+    {
+      "name": "Residential Tree Service",
+      "keywords": [
+        "residential tree service Watertown MA",
+        "home tree service Watertown",
+        "residential tree care Massachusetts",
+        "homeowner tree service Watertown"
+      ],
+      "description": "Full-service residential tree care in Watertown, MA for homeowners seeking professional tree maintenance and removal. We enhance your property's safety and curb appeal."
+    },
+    {
+      "name": "Hedge Trimming",
+      "keywords": [
+        "hedge trimming Watertown MA",
+        "hedge cutting Watertown",
+        "shrub trimming Massachusetts",
+        "hedge maintenance Watertown"
+      ],
+      "description": "Professional hedge trimming and shaping services in Watertown, Massachusetts to maintain beautiful, healthy hedges and shrubs. We keep your landscape looking pristine year-round."
+    },
+    {
+      "name": "Brush Removal",
+      "keywords": [
+        "brush removal Watertown MA",
+        "brush clearing Watertown",
+        "vegetation removal Massachusetts",
+        "brush cleanup service Watertown"
+      ],
+      "description": "Efficient brush removal services in Watertown, MA to clear overgrown vegetation and debris from your property. We handle all cleanup and disposal for a clean landscape."
+    },
+    {
+      "name": "Tree Care Services",
+      "keywords": [
+        "tree care Watertown MA",
+        "tree health services Watertown",
+        "arborist services Massachusetts",
+        "tree maintenance Watertown"
+      ],
+      "description": "Comprehensive tree care services in Watertown, Massachusetts including health assessments, disease treatment, and maintenance programs. We keep your trees healthy and thriving."
+    }
+  ],
+  "owner_name": "",
+  "client_slug": "bbd-tree-service",
+  "form_action": "https://design.pageone.cloud/api/leads/bbd-tree-service",
+  "github_repo": "",
+  "company_name": "bbd-tree-service",
+  "service_areas": [
+    {
+      "zip": "02472",
+      "city": "",
+      "state": "MA",
+      "primary": true
+    }
+  ],
+  "image_curation": null,
+  "research_brief": null,
+  "competitor_urls": [],
+  "phone_secondary": "",
+  "lead_notification_email": "",
+  "lead_notification_phone": "",
+  "google_business_profile_url": ""
+}
