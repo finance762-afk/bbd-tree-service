@@ -113,8 +113,8 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
   background: linear-gradient(
     150deg,
     rgba(10, 18, 28, 0.90) 0%,
-    rgba(26, 43, 60, 0.78) 55%,
-    rgba(6, 182, 212, 0.15) 100%
+    rgba(45, 106, 0, 0.78) 55%,
+    rgba(108, 194, 0, 0.12) 100%
   );
   z-index: 1;
 }
@@ -142,8 +142,8 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
   display: inline-flex;
   align-items: center;
   gap: var(--space-2);
-  background: rgba(6, 182, 212, 0.12);
-  border: 1px solid rgba(6, 182, 212, 0.35);
+  background: rgba(108,194,0, 0.12);
+  border: 1px solid rgba(108,194,0, 0.35);
   border-radius: 999px;
   padding: 6px 18px;
   font-family: var(--font-heading);
@@ -219,7 +219,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
   overflow: hidden;
   padding: 13px 0;
   border-top: 2px solid var(--color-accent);
-  border-bottom: 2px solid rgba(6,182,212,0.18);
+  border-bottom: 2px solid rgba(108,194,0,0.18);
 }
 .ticker-track-inner {
   display: flex;
@@ -285,8 +285,8 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
 }
 .featured-icon {
   width: 64px; height: 64px;
-  background: rgba(6,182,212,0.15);
-  border: 1px solid rgba(6,182,212,0.3);
+  background: rgba(108,194,0,0.15);
+  border: 1px solid rgba(108,194,0,0.3);
   border-radius: var(--radius-md);
   display: flex; align-items: center; justify-content: center;
   color: var(--color-accent);
@@ -379,7 +379,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
   content: '';
   position: absolute;
   inset: 0;
-  background: radial-gradient(ellipse at 50% 50%, rgba(6,182,212,0.14) 0%, transparent 70%);
+  background: radial-gradient(ellipse at 50% 50%, rgba(108,194,0,0.14) 0%, transparent 70%);
 }
 .stats-row {
   display: grid;
@@ -533,7 +533,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
   border-radius: var(--radius-md);
   transition: background var(--transition-fast), box-shadow var(--transition-fast);
 }
-.process-step:hover { background: rgba(6,182,212,0.06); box-shadow: var(--shadow-sm); }
+.process-step:hover { background: rgba(108,194,0,0.06); box-shadow: var(--shadow-sm); }
 .step-num {
   flex-shrink: 0;
   width: 38px; height: 38px;
@@ -550,7 +550,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
 
 /* ── Reviews Section ─────────────────────────────────────────────────── */
 .reviews-bg {
-  background: #16213e;
+  background: #1a2d00;
   position: relative;
   overflow: hidden;
 }
@@ -558,7 +558,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
   content: '';
   position: absolute;
   inset: 0;
-  background: radial-gradient(ellipse at 30% 50%, rgba(6,182,212,0.08) 0%, transparent 60%);
+  background: radial-gradient(ellipse at 30% 50%, rgba(108,194,0,0.08) 0%, transparent 60%);
 }
 .reviews-section-inner { position: relative; z-index: 1; }
 .review-swiper-card {
@@ -637,7 +637,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
   letter-spacing: 0.5px;
   transition: background var(--transition-fast), color var(--transition-fast);
 }
-.platform-badge:hover { background: rgba(6,182,212,0.12); color: #fff; }
+.platform-badge:hover { background: rgba(108,194,0,0.12); color: #fff; }
 .badge-stars { color: #fbbf24; font-size: 0.7rem; }
 .swiper-pagination-bullet { background: rgba(255,255,255,0.35); opacity: 1; }
 .swiper-pagination-bullet-active { background: var(--color-accent); }
@@ -659,7 +659,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
   content: '';
   position: absolute;
   inset: 0;
-  background: radial-gradient(ellipse at 50% 0%, rgba(6,182,212,0.22) 0%, transparent 65%);
+  background: radial-gradient(ellipse at 50% 0%, rgba(108,194,0,0.22) 0%, transparent 65%);
 }
 .closing-cta-inner { position: relative; z-index: 1; }
 .closing-cta h2 {
@@ -1108,8 +1108,8 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
 <!-- Divider: white → dark -->
 <div class="svg-divider" aria-hidden="true" style="background:#fff;">
   <svg viewBox="0 0 1200 56" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-    <polygon points="0,0 1200,56 1200,56 0,56" fill="#16213e"/>
-    <polygon points="0,0 600,56 0,56" fill="#16213e"/>
+    <polygon points="0,0 1200,56 1200,56 0,56" fill="#1a2d00"/>
+    <polygon points="0,0 600,56 0,56" fill="#1a2d00"/>
   </svg>
 </div>
 
@@ -1121,7 +1121,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
   <div class="container reviews-section-inner">
 
     <div class="section-header" style="text-align:center; margin-bottom:var(--space-10);" data-animate>
-      <span class="section-num" style="color:rgba(6,182,212,0.85);">03 — Reviews</span>
+      <span class="section-num" style="color:rgba(108,194,0,0.85);">03 — Reviews</span>
       <h2 style="color:#fff; font-size:clamp(1.8rem,4vw,2.6rem); letter-spacing:-0.025em; margin-top:var(--space-3); margin-bottom:var(--space-3);">
         What Watertown Homeowners Say
       </h2>
@@ -1247,7 +1247,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
 
 
 <!-- Divider: dark → bg-alt -->
-<div class="svg-divider" aria-hidden="true" style="background:#16213e;">
+<div class="svg-divider" aria-hidden="true" style="background:#1a2d00;">
   <svg viewBox="0 0 1200 56" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
     <path d="M0,0 C400,56 800,10 1200,45 L1200,56 L0,56 Z" fill="#f8f9fa"/>
   </svg>

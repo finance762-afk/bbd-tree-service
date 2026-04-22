@@ -46,13 +46,13 @@ $socialLinks = [
 
 // ─── Brand Colors ─────────────────────────────────────────────────────────────
 $colors = [
-    'primary'    => '#1a2b3c',
-    'primaryRgb' => '26, 43, 60',
-    'primaryDark'=> '#0f1a26',
-    'secondary'  => '#4d5e6f',
-    'accent'     => '#06b6d4',
-    'accentRgb'  => '6, 182, 212',
-    'bgDark'     => '#0f1a26',
+    'primary'    => '#2d6a00',
+    'primaryRgb' => '45, 106, 0',
+    'primaryDark'=> '#1c4800',
+    'secondary'  => '#4a7a1e',
+    'accent'     => '#6cc200',
+    'accentRgb'  => '108, 194, 0',
+    'bgDark'     => '#1a2d00',
 ];
 
 // ─── SEO Keywords ─────────────────────────────────────────────────────────────
