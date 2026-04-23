@@ -161,7 +161,7 @@ $_areaList     = implode(', ', array_column(array_values($_otherAreas), 'city'))
               </div>
             </li>
           </ul>
-          <a href="/contact" class="btn-primary btn-block footer-cta-btn">
+          <a href="/contact" class="btn btn-primary btn-block footer-cta-btn">
             <i data-lucide="clipboard-list" aria-hidden="true"></i>
             Get a Free Estimate
           </a>

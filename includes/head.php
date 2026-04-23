@@ -120,6 +120,9 @@ $_lbJson = json_encode($_localBusiness, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASH
   <meta name="description" content="<?= htmlspecialchars($_d) ?>">
   <meta name="keywords" content="<?= htmlspecialchars($_kw) ?>">
   <link rel="canonical" href="<?= htmlspecialchars($_can) ?>">
+  <?php if (!empty($noindex)): ?>
+  <meta name="robots" content="noindex, nofollow">
+  <?php endif; ?>
 
   <!-- Open Graph -->
   <meta property="og:type"        content="website">

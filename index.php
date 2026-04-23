@@ -112,7 +112,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
   inset: 0;
   background: linear-gradient(
     150deg,
-    rgba(10, 18, 28, 0.90) 0%,
+    rgba(10, 20, 0, 0.92) 0%,
     rgba(45, 106, 0, 0.78) 55%,
     rgba(108, 194, 0, 0.12) 100%
   );
@@ -261,7 +261,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
 }
 .service-card-featured {
   grid-row: span 2;
-  background: linear-gradient(155deg, var(--color-primary) 0%, #0d1e2e 100%);
+  background: linear-gradient(155deg, var(--color-primary) 0%, var(--color-dark-alt) 100%);
   color: #fff;
   border-radius: var(--radius-lg);
   padding: var(--space-10);
@@ -417,7 +417,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
   position: relative;
   overflow: hidden;
   padding: var(--space-16) 0;
-  background: linear-gradient(135deg, #0d1e2e 0%, var(--color-primary) 50%, #1a3a52 100%);
+  background: linear-gradient(135deg, var(--color-dark-alt) 0%, var(--color-primary) 55%, var(--color-secondary) 100%);
   text-align: center;
 }
 .cta-mid::before {

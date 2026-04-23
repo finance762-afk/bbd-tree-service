@@ -112,7 +112,7 @@ $_navServicesB = array_slice($services, 5);
           <?= htmlspecialchars(formatPhone($phone)) ?>
         </a>
         <?php endif; ?>
-        <a href="/contact" class="btn-primary btn-sm">Free Estimate</a>
+        <a href="/contact" class="btn btn-primary btn-sm">Free Estimate</a>
       </div>
 
       <!-- Hamburger (mobile) -->
@@ -192,12 +192,12 @@ $_navServicesB = array_slice($services, 5);
     <!-- Mobile CTA Block -->
     <div class="mobile-cta-block">
       <?php if (!empty($phone)): ?>
-      <a href="tel:<?= preg_replace('/\D/', '', $phone) ?>" class="btn-primary btn-block">
+      <a href="tel:<?= preg_replace('/\D/', '', $phone) ?>" class="btn btn-primary btn-block">
         <i data-lucide="phone" aria-hidden="true"></i>
         Call <?= htmlspecialchars(formatPhone($phone)) ?>
       </a>
       <?php endif; ?>
-      <a href="/contact" class="btn-secondary btn-block">
+      <a href="/contact" class="btn btn-secondary btn-block">
         <i data-lucide="clipboard-list" aria-hidden="true"></i>
         Get a Free Estimate
       </a>
