@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://bbdtreeservice.com/</loc>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899152754-h3pt6v-Photo_of_tree_removal.png</image:loc>
+      <image:title>BBD Tree Service — Professional Tree Removal in Watertown MA</image:title>
+      <image:caption>Tree removal crew working safely in a Watertown, MA residential yard</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899165395-ib39yo-Photo_of_personable_staff.png</image:loc>
+      <image:title>BBD Tree Service crew — professional arborists serving Watertown MA</image:title>
+      <image:caption>Friendly, professional tree service team from BBD Tree Service, Watertown MA</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/logo/1776899007390-oq02qd-LOGO.jpg</image:loc>
+      <image:title>BBD Tree Service Logo — Watertown MA</image:title>
+      <image:caption>BBD Tree Service company logo</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Services Index -->
+  <url>
+    <loc>https://bbdtreeservice.com/services</loc>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899132063-btyvop-Photo_of_trimmed__1_.png</image:loc>
+      <image:title>Professional tree trimming services in Watertown MA</image:title>
+      <image:caption>Expertly trimmed tree by BBD Tree Service in Watertown, Massachusetts</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Tree Removal -->
+  <url>
+    <loc>https://bbdtreeservice.com/services/tree-removal</loc>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899152754-h3pt6v-Photo_of_tree_removal.png</image:loc>
+      <image:title>Tree removal service in Watertown MA by BBD Tree Service</image:title>
+      <image:caption>Safe, professional tree removal in a Watertown MA residential neighborhood</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899128712-yscgem-Photo__1_.png</image:loc>
+      <image:title>Large tree removal — BBD Tree Service Watertown MA</image:title>
+      <image:caption>BBD Tree Service handling a large tree removal project in Greater Boston</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Tree Trimming -->
+  <url>
+    <loc>https://bbdtreeservice.com/services/tree-trimming</loc>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899161729-ozelmu-Photo_of_trimmed.png</image:loc>
+      <image:title>Tree trimming service Watertown MA — BBD Tree Service</image:title>
+      <image:caption>Precision tree trimming by BBD Tree Service in Watertown, Massachusetts</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899132063-btyvop-Photo_of_trimmed__1_.png</image:loc>
+      <image:title>Professionally trimmed tree in Watertown MA</image:title>
+      <image:caption>Beautifully trimmed tree improving curb appeal in Watertown, MA</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Tree Pruning -->
+  <url>
+    <loc>https://bbdtreeservice.com/services/tree-pruning</loc>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899124438-s742uz-Photo_of_branches__1_.png</image:loc>
+      <image:title>Tree pruning service in Watertown MA by BBD Tree Service</image:title>
+      <image:caption>Careful arborist pruning improving tree structure and health in Watertown MA</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899126803-nkmfdb-Photo_of_branches.png</image:loc>
+      <image:title>Branch pruning in Watertown Massachusetts</image:title>
+      <image:caption>Selective branch removal to promote healthy growth — BBD Tree Service</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Stump Grinding -->
+  <url>
+    <loc>https://bbdtreeservice.com/services/stump-grinding</loc>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899127863-agb2jd-Photo__2_.png</image:loc>
+      <image:title>Stump grinding service Watertown MA — BBD Tree Service</image:title>
+      <image:caption>Stump grinding below grade level in a Watertown MA yard</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Stump Removal -->
+  <url>
+    <loc>https://bbdtreeservice.com/services/stump-removal</loc>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899167145-t8mmjq-Photo__3_.png</image:loc>
+      <image:title>Complete stump removal in Watertown MA by BBD Tree Service</image:title>
+      <image:caption>Full stump and root system removal restoring the landscape in Watertown, MA</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Commercial Tree Service -->
+  <url>
+    <loc>https://bbdtreeservice.com/services/commercial-tree-service</loc>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899166275-uizhax-Photo__4_.png</image:loc>
+      <image:title>Commercial tree service Watertown MA — BBD Tree Service</image:title>
+      <image:caption>Professional commercial tree care for businesses and property managers in Watertown MA</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899164535-7vu0p4-Photo__5_.png</image:loc>
+      <image:title>Commercial property tree maintenance in Greater Boston MA</image:title>
+      <image:caption>BBD Tree Service maintaining commercial property trees in the Greater Boston area</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Residential Tree Service -->
+  <url>
+    <loc>https://bbdtreeservice.com/services/residential-tree-service</loc>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899165395-ib39yo-Photo_of_personable_staff.png</image:loc>
+      <image:title>Residential tree service in Watertown MA — BBD Tree Service</image:title>
+      <image:caption>BBD Tree Service team providing residential tree care in Watertown, Massachusetts</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899132063-btyvop-Photo_of_trimmed__1_.png</image:loc>
+      <image:title>Residential tree trimming in Watertown MA</image:title>
+      <image:caption>Beautiful residential tree trimming improving home curb appeal in Watertown MA</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Hedge Trimming -->
+  <url>
+    <loc>https://bbdtreeservice.com/services/hedge-trimming</loc>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899162735-7w3x2u-Photo_of_branches__4_.png</image:loc>
+      <image:title>Hedge trimming service Watertown MA — BBD Tree Service</image:title>
+      <image:caption>Precisely shaped hedges and shrubs maintained by BBD Tree Service in Watertown MA</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899124438-s742uz-Photo_of_branches__1_.png</image:loc>
+      <image:title>Boxwood hedge trimming in Watertown Massachusetts</image:title>
+      <image:caption>Clean, professional hedge shaping by BBD Tree Service in Watertown, MA</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899126803-nkmfdb-Photo_of_branches.png</image:loc>
+      <image:title>Ornamental shrub trimming in Watertown MA</image:title>
+      <image:caption>BBD Tree Service shaping ornamental shrubs and privacy hedges in Greater Boston</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Brush Removal -->
+  <url>
+    <loc>https://bbdtreeservice.com/services/brush-removal</loc>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899160754-f3mukc-Photo__6_.png</image:loc>
+      <image:title>Brush removal and lot clearing Watertown MA — BBD Tree Service</image:title>
+      <image:caption>Overgrown vegetation and brush cleared by BBD Tree Service in Watertown, MA</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Tree Care -->
+  <url>
+    <loc>https://bbdtreeservice.com/services/tree-care</loc>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899163625-imkizr-Photo_of_branches__3_.png</image:loc>
+      <image:title>Tree care services Watertown MA — BBD Tree Service arborists</image:title>
+      <image:caption>Comprehensive tree health care by certified arborists at BBD Tree Service in Watertown MA</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Service Area -->
+  <url>
+    <loc>https://bbdtreeservice.com/service-area</loc>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899162735-7w3x2u-Photo_of_branches__4_.png</image:loc>
+      <image:title>BBD Tree Service coverage area — Watertown MA and Greater Boston</image:title>
+      <image:caption>BBD Tree Service covers Watertown, Cambridge, Newton, Waltham, Belmont, Arlington and surrounding communities</image:caption>
+    </image:image>
+  </url>
+
+  <!-- About -->
+  <url>
+    <loc>https://bbdtreeservice.com/about</loc>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899165395-ib39yo-Photo_of_personable_staff.png</image:loc>
+      <image:title>BBD Tree Service team — 26 years serving Watertown MA</image:title>
+      <image:caption>The professional crew at BBD Tree Service, serving Watertown and Greater Boston since 2000</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Contact -->
+  <url>
+    <loc>https://bbdtreeservice.com/contact</loc>
+    <image:image>
+      <image:loc>https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899152754-h3pt6v-Photo_of_tree_removal.png</image:loc>
+      <image:title>Contact BBD Tree Service — Free estimates in Watertown MA</image:title>
+      <image:caption>Get a free estimate from BBD Tree Service for tree removal, trimming or stump grinding in Watertown MA</image:caption>
+    </image:image>
+  </url>
+
+</urlset>

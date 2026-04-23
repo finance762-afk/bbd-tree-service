@@ -512,7 +512,7 @@
     {
       "name": "seo_aeo_deploy",
       "phase": 5,
-      "status": "pending"
+      "status": "complete"
     }
   ],
   "address": {
