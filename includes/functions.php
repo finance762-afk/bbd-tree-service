@@ -18,7 +18,7 @@ function isActivePage(string $page): bool {
 // ─── Formatting ───────────────────────────────────────────────────────────────
 
 /**
- * Formats a raw phone number string for display: (617) 555-0100
+ * Formats a raw phone number string for display: (617) 123-4567
  * Accepts 10-digit strings, optionally with country code.
  */
 function formatPhone(string $phone): string {

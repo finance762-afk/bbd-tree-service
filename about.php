@@ -634,8 +634,8 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
                 <div class="story-img-main">
                     <picture>
                         <source srcset="<?= $siteImages['staff'] ?>" type="image/webp">
-                        <img src="<?= $siteImages['staff'] ?>"
-                             alt="BBD Tree Service crew in Watertown MA — licensed arborist team"
+                        <img alt="BBD Tree Service crew in Watertown MA — licensed arborist team"
+                             src="<?= $siteImages['staff'] ?>"
                              width="600" height="750" loading="lazy">
                     </picture>
                 </div>
@@ -807,8 +807,8 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
             <div class="team-photo-wrap img-reveal" data-animate="wipe-right">
                 <picture>
                     <source srcset="<?= $siteImages['trimmed2'] ?>" type="image/webp">
-                    <img src="<?= $siteImages['trimmed2'] ?>"
-                         alt="BBD Tree Service arborist team performing tree trimming in Watertown MA"
+                    <img alt="BBD Tree Service arborist team performing tree trimming in Watertown MA"
+                         src="<?= $siteImages['trimmed2'] ?>"
                          width="700" height="525" loading="lazy">
                 </picture>
             </div>

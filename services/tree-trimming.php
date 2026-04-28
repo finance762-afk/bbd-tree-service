@@ -272,11 +272,9 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
     </div>
   </div>
   <div class="split-image">
-    <img
-      src="<?= htmlspecialchars($siteImages['trimmed2']) ?>"
-      alt="Professionally trimmed tree in Watertown MA by BBD Tree Service"
-      width="900" height="700"
-      loading="lazy">
+    <img alt="Professionally trimmed tree in Watertown MA by BBD Tree Service"
+         src="<?= htmlspecialchars($siteImages['trimmed2']) ?>"
+         width="900" height="700" loading="lazy">
     <div class="overlay-stat">
       <div class="stat-val">4.9★</div>
       <div class="stat-lbl">Average Rating<br>85+ Reviews</div>

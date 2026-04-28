@@ -541,8 +541,8 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
             <div class="area-intro-img img-reveal" data-animate="wipe-right">
                 <picture>
                     <source srcset="<?= $siteImages['trimmed2'] ?>" type="image/webp">
-                    <img src="<?= $siteImages['trimmed2'] ?>"
-                         alt="BBD Tree Service crew working near Watertown MA — serving Greater Boston communities"
+                    <img alt="BBD Tree Service crew working near Watertown MA — serving Greater Boston communities"
+                         src="<?= $siteImages['trimmed2'] ?>"
                          width="700" height="525" loading="lazy">
                 </picture>
                 <div class="area-radius-badge">15-Mile<br>Service Radius</div>
@@ -613,8 +613,8 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
                 <div class="area-card-img">
                     <picture>
                         <source srcset="<?= $img ?>" type="image/webp">
-                        <img src="<?= $img ?>"
-                             alt="Tree service in <?= $city ?>, MA — BBD Tree Service"
+                        <img alt="Tree service in <?= htmlspecialchars($city) ?>, MA — BBD Tree Service"
+                             src="<?= $img ?>"
                              width="560" height="245" loading="lazy">
                     </picture>
                     <div class="area-card-img-overlay" aria-hidden="true"></div>

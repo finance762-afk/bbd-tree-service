@@ -197,7 +197,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
 <!-- ── FULL-BLEED STAT PHOTO STRIP — SIGNATURE SECTION ──────────────────────── -->
 <div class="stat-photo-strip" aria-label="BBD Tree Service brush removal in Watertown">
   <div class="stat-photo-bg">
-    <img src="<?= htmlspecialchars($siteImages['photo7']) ?>" alt="Cleared brush and vegetation on Watertown property" width="1400" height="400" loading="lazy">
+    <img alt="Cleared brush and vegetation on Watertown property" src="<?= htmlspecialchars($siteImages['photo7']) ?>" width="1400" height="400" loading="lazy">
   </div>
   <div class="stat-photo-content">
     <div class="container">

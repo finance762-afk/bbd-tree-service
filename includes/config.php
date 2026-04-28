@@ -33,7 +33,7 @@ $siteUrl     = "https://bbdtreeservice.com";
 $clientSlug  = "bbd-tree-service";
 
 // ─── Analytics & Tracking ─────────────────────────────────────────────────────
-$googleAnalyticsId = "G-XXXXXXXXXX";            // replace with live GA4 ID
+$googleAnalyticsId = "";                         // add GA4 measurement ID before launch
 $gscVerification   = "";                         // GSC meta verification value
 
 // ─── Social Links ─────────────────────────────────────────────────────────────

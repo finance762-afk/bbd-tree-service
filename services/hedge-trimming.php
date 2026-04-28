@@ -174,7 +174,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
     <div class="hedge-type-grid">
       <div class="hedge-type-card" data-animate="fade-up">
         <div class="hedge-type-img">
-          <img src="<?= htmlspecialchars($siteImages['branches4']) ?>" alt="Boxwood hedge trimming Watertown MA" width="600" height="338" loading="lazy">
+          <img alt="Boxwood hedge trimming Watertown MA" src="<?= htmlspecialchars($siteImages['branches4']) ?>" width="600" height="338" loading="lazy">
         </div>
         <div class="hedge-type-body">
           <h3>Formal Hedges</h3>
@@ -183,7 +183,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
       </div>
       <div class="hedge-type-card" data-animate="fade-up">
         <div class="hedge-type-img">
-          <img src="<?= htmlspecialchars($siteImages['branches1']) ?>" alt="Arborvitae privacy screen trimming Watertown MA" width="600" height="338" loading="lazy">
+          <img alt="Arborvitae privacy screen trimming Watertown MA" src="<?= htmlspecialchars($siteImages['branches1']) ?>" width="600" height="338" loading="lazy">
         </div>
         <div class="hedge-type-body">
           <h3>Privacy Screens</h3>
@@ -192,7 +192,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
       </div>
       <div class="hedge-type-card" data-animate="fade-up">
         <div class="hedge-type-img">
-          <img src="<?= htmlspecialchars($siteImages['branches2']) ?>" alt="Ornamental shrub trimming Watertown MA" width="600" height="338" loading="lazy">
+          <img alt="Ornamental shrub trimming Watertown MA" src="<?= htmlspecialchars($siteImages['branches2']) ?>" width="600" height="338" loading="lazy">
         </div>
         <div class="hedge-type-body">
           <h3>Ornamental Shrubs</h3>

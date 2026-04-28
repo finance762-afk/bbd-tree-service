@@ -386,11 +386,9 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
       <!-- Image Stack -->
       <div class="service-img-stack img-reveal" data-animate="wipe-right">
         <div class="service-img-main">
-          <img
-            src="<?= htmlspecialchars($siteImages['hero']) ?>"
-            alt="BBD Tree Service crew removing a large tree in Watertown MA"
-            width="840" height="630"
-            loading="lazy">
+          <img alt="BBD Tree Service crew removing a large tree in Watertown MA"
+               src="<?= htmlspecialchars($siteImages['hero']) ?>"
+               width="840" height="630" loading="lazy">
         </div>
         <div class="service-img-badge">
           <div class="badge-num">26</div>

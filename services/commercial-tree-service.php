@@ -173,8 +173,8 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
 <section class="commercial-asym" aria-label="What we bring to commercial accounts">
   <div class="comm-img-panel">
     <img
-      src="<?= htmlspecialchars($siteImages['branches2']) ?>"
       alt="BBD Tree Service commercial tree work in Watertown MA"
+      src="<?= htmlspecialchars($siteImages['branches2']) ?>"
       width="800" height="600"
       loading="lazy">
   </div>

@@ -197,7 +197,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
 .form-group input:focus + label,
 .form-group input:not(:placeholder-shown) + label,
 .form-group select:focus + label,
-.form-group select:not([value=""]) + label,
+.form-group select.has-value + label,
 .form-group textarea:focus + label,
 .form-group textarea:not(:placeholder-shown) + label {
     top: 4px;
@@ -428,33 +428,33 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
 
                         <div class="form-row">
                             <div class="form-group">
-                                <input type="text" id="first_name" name="first_name" placeholder=" " required autocomplete="given-name">
+                                <input type="text" id="first_name" name="first_name" placeholder=" " title="Enter your first name" required autocomplete="given-name">
                                 <label for="first_name">First Name *</label>
                             </div>
                             <div class="form-group">
-                                <input type="text" id="last_name" name="last_name" placeholder=" " required autocomplete="family-name">
+                                <input type="text" id="last_name" name="last_name" placeholder=" " title="Enter your last name" required autocomplete="family-name">
                                 <label for="last_name">Last Name *</label>
                             </div>
                         </div>
 
                         <div class="form-row">
                             <div class="form-group">
-                                <input type="tel" id="phone" name="phone" placeholder=" " required autocomplete="tel">
+                                <input type="tel" id="phone" name="phone" placeholder=" " title="Enter your phone number" required autocomplete="tel">
                                 <label for="phone">Phone Number *</label>
                             </div>
                             <div class="form-group">
-                                <input type="email" id="email" name="email" placeholder=" " autocomplete="email">
+                                <input type="email" id="email" name="email" placeholder=" " title="Enter your email address" autocomplete="email">
                                 <label for="email">Email Address</label>
                             </div>
                         </div>
 
                         <div class="form-group">
-                            <input type="text" id="address_field" name="property_address" placeholder=" " autocomplete="street-address">
+                            <input type="text" id="address_field" name="property_address" placeholder=" " title="Enter your property address" autocomplete="street-address">
                             <label for="address_field">Property Address</label>
                         </div>
 
                         <div class="form-group">
-                            <select id="service_requested" name="service_requested" required>
+                            <select id="service_requested" name="service_requested" title="Select the service you need" required>
                                 <option value="" disabled selected></option>
                                 <?php foreach ($services as $svc): ?>
                                 <option value="<?= htmlspecialchars($svc['name']) ?>"><?= htmlspecialchars($svc['name']) ?></option>
@@ -466,9 +466,22 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
                         </div>
 
                         <div class="form-group textarea-group">
-                            <textarea id="message" name="message" placeholder=" "></textarea>
+                            <textarea id="message" name="message" placeholder=" " title="Describe your tree service project"></textarea>
                             <label for="message">Tell Us About Your Project</label>
                         </div>
+
+                        <script>
+                        (function(){
+                            var sel = document.getElementById('service_requested');
+                            if (sel) {
+                                function updateLabel() {
+                                    sel.classList.toggle('has-value', sel.value !== '');
+                                }
+                                sel.addEventListener('change', updateLabel);
+                                updateLabel();
+                            }
+                        })();
+                        </script>
 
                         <button type="submit" class="form-submit-btn">
                             Send My Free Estimate Request

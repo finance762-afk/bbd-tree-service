@@ -1033,8 +1033,8 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
         <picture>
           <source srcset="<?= htmlspecialchars($siteImages['staff']) ?>" type="image/png">
           <img
-            src="<?= htmlspecialchars($siteImages['staff']) ?>"
             alt="BBD Tree Service crew — professional arborists serving Watertown, MA"
+            src="<?= htmlspecialchars($siteImages['staff']) ?>"
             class="about-img"
             width="600"
             height="750"

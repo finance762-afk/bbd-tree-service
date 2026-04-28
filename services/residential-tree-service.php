@@ -236,10 +236,10 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
       </div>
       <div class="photo-overlap-img-stack" data-animate="fade-up">
         <div class="photo-main img-reveal">
-          <img src="<?= htmlspecialchars($siteImages['trimmed1']) ?>" alt="BBD Tree Service residential tree trimming in Watertown MA" width="700" height="525" loading="lazy">
+          <img alt="BBD Tree Service residential tree trimming in Watertown MA" src="<?= htmlspecialchars($siteImages['trimmed1']) ?>" width="700" height="525" loading="lazy">
         </div>
         <div class="photo-inset">
-          <img src="<?= htmlspecialchars($siteImages['staff']) ?>" alt="BBD Tree Service crew member in Watertown MA" width="300" height="300" loading="lazy">
+          <img alt="BBD Tree Service crew member in Watertown MA" src="<?= htmlspecialchars($siteImages['staff']) ?>" width="300" height="300" loading="lazy">
         </div>
       </div>
     </div>

@@ -162,15 +162,14 @@ $_lbJson = json_encode($_localBusiness, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASH
 
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg">
-  <link rel="icon" type="image/png"     href="/assets/images/favicon.png" sizes="32x32">
-  <link rel="apple-touch-icon"          href="/assets/images/apple-touch-icon.png">
+  <link rel="icon" type="image/svg+xml" href="/assets/images/favicon.svg" sizes="any">
 
   <?php if (isset($heroImage) && $heroImage !== ''): ?>
   <!-- Hero Image Preload -->
   <link rel="preload" as="image" href="<?= htmlspecialchars($heroImage) ?>">
   <?php endif; ?>
 
-  <!-- Google Analytics (replace placeholder before launch) -->
+  <!-- Google Analytics (add GA4 measurement ID to config.php before launch) -->
   <!-- GA4: <?= $googleAnalyticsId ?> -->
   <!--
   <script async src="https://www.googletagmanager.com/gtag/js?id=<?= $googleAnalyticsId ?>"></script>

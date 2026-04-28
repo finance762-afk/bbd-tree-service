@@ -525,8 +525,8 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
                 <div class="service-card-img">
                     <picture>
                         <source srcset="<?= $img ?>" type="image/webp">
-                        <img src="<?= $img ?>"
-                             alt="<?= htmlspecialchars($svc['name']) ?> in Watertown MA — BBD Tree Service"
+                        <img alt="<?= htmlspecialchars($svc['name']) ?> in Watertown MA — BBD Tree Service"
+                             src="<?= $img ?>"
                              width="480" height="300" loading="lazy">
                     </picture>
                     <div class="service-card-img-overlay" aria-hidden="true"></div>

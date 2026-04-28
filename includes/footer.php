@@ -213,7 +213,7 @@ $_areaList     = implode(', ', array_column(array_values($_otherAreas), 'city'))
         </p>
         <nav class="footer-legal-links" aria-label="Legal navigation">
           <a href="/privacy-policy">Privacy Policy</a>
-          <a href="/sitemap">Sitemap</a>
+          <a href="/sitemap.xml">Sitemap</a>
         </nav>
         <p class="footer-credit">
           <a href="https://pageoneinsights.com" rel="dofollow" target="_blank"
