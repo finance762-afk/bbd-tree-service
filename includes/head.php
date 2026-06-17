@@ -1,4 +1,5 @@
 <?php
+require_once __DIR__ . '/site-config.php';
 /**
  * BBD Tree Service — <head> Include
  * Phase 2: Header, Footer, Head, Functions
@@ -198,4 +199,5 @@ $_lbJson = json_encode($_localBusiness, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASH
   </script>
   <?php endif; ?>
 
+<?php require_once __DIR__ . '/edit-mode.php'; ?>
 </head>
