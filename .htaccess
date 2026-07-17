@@ -11,6 +11,7 @@ RewriteCond %{REQUEST_URI} !^/includes/
 
 # Rewrite extensionless URLs → .php files
 RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{DOCUMENT_ROOT}/$1.php -f
 RewriteRule ^([^\.]+)$ $1.php [NC,L]
 
 # Redirect .php URLs → clean URLs (301 permanent)
