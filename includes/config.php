@@ -211,7 +211,7 @@ $serviceAreas = [
 ];
 
 // ─── Form ─────────────────────────────────────────────────────────────────────
-$formAction    = "https://design.pageone.cloud/api/leads/bbd-tree-service";
+$formAction    = "https://db.pageone.cloud/functions/v1/leads/bbd-tree-service";
 $thankYouUrl   = "https://bbdtreeservice.com/thank-you";
 
 // ─── Asset URLs ───────────────────────────────────────────────────────────────
