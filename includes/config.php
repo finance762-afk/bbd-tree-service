@@ -237,3 +237,4 @@ $siteImages = [
     'photo9'    => "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899155422-imqa74-Photo__9_.png",
     'photo10'   => "https://db.pageone.cloud/storage/v1/object/public/client-assets/bbd-tree-service/photos/1776899154563-m1tr99-Photo__10_.png",
 ];
+$leadsFormSecret = 'bac7714a8f41505ab12d75311ccbb11a6374e38b1a010d69111c84a652cfa0f3'; // spam-shield HMAC (matches leads fn LEADS_FORM_SECRET)
