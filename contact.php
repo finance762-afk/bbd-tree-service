@@ -490,6 +490,42 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
                         <?php if (empty($GLOBALS['__js_shield'])) { $GLOBALS['__js_shield'] = 1; ?>
                         <script>(function(){var d=document,f=function(){var i,e=d.querySelectorAll('.js-shield-field');for(i=0;i<e.length;i++)e[i].value='1';d.removeEventListener('pointerdown',f);d.removeEventListener('keydown',f);};d.addEventListener('pointerdown',f);d.addEventListener('keydown',f);})();</script>
                         <?php } ?>
+                        <?php if (empty($GLOBALS['__p1_consent_css'])) { $GLOBALS['__p1_consent_css'] = 1; ?>
+                        <style>
+                        .p1-consent{margin:14px 0;text-align:left}
+                        .p1-consent-set{border:0;margin:0;padding:0}
+                        .p1-consent-legend{font-size:13px;font-weight:600;padding:0;margin-bottom:6px}
+                        .p1-consent-item{display:flex;gap:8px;align-items:flex-start;margin-bottom:8px;font-size:12px;line-height:1.5;cursor:pointer}
+                        .p1-consent-item input{margin:2px 0 0;flex:0 0 auto;width:16px;height:16px;cursor:pointer}
+                        .p1-consent-line{display:flex;gap:8px;align-items:flex-start;font-size:12px;line-height:1.45;cursor:pointer}
+                        .p1-consent-line input{margin:2px 0 0;flex:0 0 auto;width:16px;height:16px;cursor:pointer}
+                        .p1-consent a{text-decoration:underline}
+                        </style>
+                        <?php } ?>
+                        <!-- TCPA 2025/2026 consent — terms_accepted is REQUIRED by the leads endpoint -->
+                        <div class="p1-consent">
+                          <fieldset class="p1-consent-set">
+                            <legend class="p1-consent-legend">Communication Consent</legend>
+                            <label class="p1-consent-item">
+                              <input type="checkbox" name="email_opt_in" value="yes">
+                              <span><strong>Email updates (optional):</strong> I agree to receive emails from <?php echo htmlspecialchars($siteName ?? ($site['name'] ?? 'us')); ?>
+                              about my inquiry, services, and promotions. I can unsubscribe at any time.</span>
+                            </label>
+                            <label class="p1-consent-item">
+                              <input type="checkbox" name="sms_opt_in" value="yes">
+                              <span><strong>SMS/Text messages (optional):</strong> I agree to receive text messages from
+                              <?php echo htmlspecialchars($siteName ?? ($site['name'] ?? 'us')); ?> at the number provided (appointment reminders, service updates, offers).
+                              Message frequency varies. Message and data rates may apply. Reply STOP to unsubscribe,
+                              HELP for help. <strong>Consent is not a condition of purchase.</strong></span>
+                            </label>
+                            <label class="p1-consent-item">
+                              <input type="checkbox" name="terms_accepted" value="yes" required>
+                              <span>I have read and agree to the Terms of Service and <a href="/privacy-policy/">Privacy Policy</a> *</span>
+                            </label>
+                          </fieldset>
+                        </div>
+                        <input type="hidden" name="_consent_version" value="v2.1">
+                        <input type="hidden" name="_consent_page" value="<?php echo htmlspecialchars($_SERVER['REQUEST_URI'] ?? ''); ?>">
                         <button type="submit" class="form-submit-btn">
                             Send My Free Estimate Request
                         </button>
