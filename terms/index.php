@@ -60,7 +60,7 @@ JSON;
       <p>When you submit a form, you consent to be contacted about your request using the contact
       details you provide, according to the consent options you select. Marketing text messages
       require separate opt-in and are never a condition of purchase. See our
-      <a href="/privacy-policy/">Privacy Policy</a> for details on how we handle your information.</p>
+      <a href="/privacy-policy/" target="_blank" rel="noopener">Privacy Policy</a> for details on how we handle your information.</p>
 
       <h2>Intellectual Property</h2>
       <p>The content on this site — text, photographs, graphics, and logos — is owned by us or our

@@ -520,7 +520,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
                             </label>
                             <label class="p1-consent-item">
                               <input type="checkbox" name="terms_accepted" value="yes" required>
-                              <span>I have read and agree to the Terms of Service and <a href="/privacy-policy/">Privacy Policy</a> *</span>
+                              <span>I have read and agree to the Terms of Service and <a href="/privacy-policy/" target="_blank" rel="noopener">Privacy Policy</a> *</span>
                             </label>
                           </fieldset>
                         </div>
