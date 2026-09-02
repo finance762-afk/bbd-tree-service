@@ -49,19 +49,6 @@ $personSchema = json_encode([
     ],
 ], JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
 
-$aggregateRatingSchema = json_encode([
-    '@context'        => 'https://schema.org',
-    '@type'           => 'LocalBusiness',
-    'name'            => $siteName,
-    'aggregateRating' => [
-        '@type'       => 'AggregateRating',
-        'ratingValue' => '4.9',
-        'reviewCount' => '87',
-        'bestRating'  => '5',
-        'worstRating' => '1',
-    ],
-], JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
-
 $breadcrumbSchema = json_encode([
     '@context' => 'https://schema.org',
     '@type'    => 'BreadcrumbList',
@@ -77,7 +64,6 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/head.php';
 
 <script type="application/ld+json"><?= $orgSchema ?></script>
 <script type="application/ld+json"><?= $personSchema ?></script>
-<script type="application/ld+json"><?= $aggregateRatingSchema ?></script>
 <script type="application/ld+json"><?= $breadcrumbSchema ?></script>
 
 <?php include $_SERVER['DOCUMENT_ROOT'] . '/includes/header.php'; ?>

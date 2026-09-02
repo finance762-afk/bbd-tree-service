@@ -92,12 +92,6 @@ $_localBusiness = [
             'closes'    => '16:00',
         ],
     ],
-    'aggregateRating' => [
-        '@type'       => 'AggregateRating',
-        'ratingValue' => '4.9',
-        'reviewCount' => '85',
-        'bestRating'  => '5',
-    ],
     'areaServed'       => $_areaServed,
     'hasOfferCatalog'  => [
         '@type'           => 'OfferCatalog',
