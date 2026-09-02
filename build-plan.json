@@ -652,5 +652,7 @@
   "phone_secondary": "",
   "lead_notification_email": "",
   "lead_notification_phone": "",
-  "google_business_profile_url": ""
+  "google_business_profile_url": "https://www.google.com/maps/place/?q=place_id:ChIJUzq-t6mC44kRr3z9_A3jZ2k",
+  "business_hours": "{\"timetable\": {\"friday\": [{\"open\": {\"hour\": 7, \"minute\": 0}, \"close\": {\"hour\": 16, \"minute\": 0}}], \"monday\": [{\"open\": {\"hour\": 7, \"minute\": 0}, \"close\": {\"hour\": 16, \"minute\": 0}}], \"sunday\": null, \"tuesday\": [{\"open\": {\"hour\": 7, \"minute\": 0}, \"close\": {\"hour\": 16, \"minute\": 0}}], \"saturday\": [{\"open\": {\"hour\": 7, \"minute\": 0}, \"close\": {\"hour\": 16, \"minute\": 0}}], \"thursday\": [{\"open\": {\"hour\": 7, \"minute\": 0}, \"close\": {\"hour\": 16, \"minute\": 0}}], \"wednesday\": [{\"open\": {\"hour\": 7, \"minute\": 0}, \"close\": {\"hour\": 16, \"minute\": 0}}]}, \"current_status\": \"open\"}",
+  "gbp_place_id": "ChIJUzq-t6mC44kRr3z9_A3jZ2k"
 }
